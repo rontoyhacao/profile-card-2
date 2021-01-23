@@ -1,0 +1,1 @@
+here i am practicing making a card layout... again but this time responsive ahhha.

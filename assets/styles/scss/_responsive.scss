@@ -1,0 +1,48 @@
+@media (max-width: 500px) {
+    .container {
+        margin: 15px;
+    }
+}
+
+@media (max-width: 440px) {
+    .container {
+        .banner {
+            background-position: 0 -250px; 
+        }
+    }
+}
+
+@media (max-width: 375px) {
+    .container {
+        margin: 15px;
+        .banner {
+            background-position: 0 -200px; 
+        }
+    }
+}
+
+@media (max-width: 280px) {
+    .container {
+        margin: 15px;
+        .banner {
+            background-position: 0 -100px; 
+        }
+        .profile-info {
+            padding: 70px 20px 0;
+            .profile {
+                font-size: 14px;
+            }
+            .name {
+                font-size: 1.1em;
+            }
+        }
+    }
+}
+
+@media (max-width: 385px) {
+    .container {
+        .profile-info {
+            padding: 70px 20px 0;
+        }
+    }
+}
